@@ -1,0 +1,22 @@
+{
+  "name": "sanbercode39-javascript",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 - Javascript",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gocir/Sanbercode39-Javascript.git"
+  },
+  "author": "gocir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gocir/Sanbercode39-Javascript/issues"
+  },
+  "homepage": "https://github.com/Gocir/Sanbercode39-Javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
